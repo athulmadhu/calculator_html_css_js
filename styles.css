@@ -1,0 +1,28 @@
+.border1{
+    padding: 10px;
+    text-align: center;
+    border: 2px;
+    width: 275px;
+    margin: 100px auto;
+    border-style: solid;
+    border-color: black;
+}
+.calculator {
+    width: 225px;
+    margin: auto;
+    text-align: left;
+}
+
+#display {
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 5px;
+    font-size: 18px;
+}
+
+.buttons button {
+    width: 40px;
+    height: 40px;
+    margin: 5px;
+    font-size: 18px;
+}
